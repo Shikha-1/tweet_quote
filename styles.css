@@ -50,6 +50,7 @@ body{
     font-weight: 500;
 }
 #author{
+    font-size: larger;
     font-family: 'Freckle Face', cursive;
 }
 #btn{
@@ -64,7 +65,7 @@ body{
    }
    #box{
      margin-top: 15%;
-     height: 60vh; 
+     height: 55vh; 
      width:  60vh;
    }
    #inner{
@@ -73,12 +74,16 @@ body{
 }
 @media only screen and (max-width: 950px) {
    #box{
+     margin-top:20%;
      width:  60vh;
    }
    #inner{
        width: 40vh;
    }
-   #quote, #author{
-       font-size: smaller;
+   #quote{
+font-size: medium;
+}
+ #author{
+       font-size: large;
    }
 }
