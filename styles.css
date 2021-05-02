@@ -51,7 +51,7 @@ body{
 }
 #author{
     font-size: larger;
-    font-family: 'Freckle Face', cursive;
+    font-family: cursive;
 }
 #btn{
     width: 100%;
@@ -65,7 +65,7 @@ body{
    }
    #box{
      margin-top: 15%;
-     height: 55vh; 
+     height: 50vh; 
      width:  60vh;
    }
    #inner{
